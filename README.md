@@ -1,2 +1,2 @@
-# Autentica-es
+# Autenticações
 Repositório de teste de autenticações
